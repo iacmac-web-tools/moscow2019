@@ -1,0 +1,27 @@
+baseurl = "https://iacmac-web-tools.github.io/moscow2019/"
+title = "XXI международный конгресс МАКМАХ"
+author = "22–24 мая 2019 г., Москва"
+canonifyurls = true
+paginate = 5
+theme = "aether"
+publishDir = "docs"
+
+[params]
+brand = "МАКМАХ 2019"
+description = "XXI международный конгресс МАКМАХ по антимикробной терапии и клинической микробиологии"
+bgimg = "img/ignasi_pattern_s.png"
+homeimg = "img/grey-cloud.jpg"
+
+[params.categories]
+[[ params.categories.item ]]
+    key = "may-22"
+    value = "22 мая"
+[[ params.categories.item ]]
+    key = "may-23"
+    value = "23 мая"
+[[ params.categories.item ]]
+    key = "may-24"
+    value = "24 мая"
+[[ params.categories.item ]]
+    key = "Posters"
+    value = "Постеры и тезисы"

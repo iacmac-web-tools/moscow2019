@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Постерная сессия - XXI международный конгресс МАКМАХ</title>
+    <link>https://iacmac-web-tools.github.io/moscow2019/categories/poster-session/</link>
+    <description>Recent content in Постерная сессия on XXI международный конгресс МАКМАХ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+        <atom:link href="https://iacmac-web-tools.github.io/moscow2019/categories/poster-session/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
