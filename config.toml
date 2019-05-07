@@ -5,6 +5,8 @@ canonifyurls = true
 paginate = 5
 theme = "aether"
 publishDir = "docs"
+languageCode = "ru-ru"
+googleAnalytics = ""
 
 [staticman]
 endpoint = "https://api.staticman.net/v2/entry/"
