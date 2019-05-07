@@ -19,6 +19,7 @@
       background: #ecedef url("https://iacmac-web-tools.github.io/moscow2019/img/ignasi_pattern_s.png") repeat;
     }
   </style>
+
 </head>
 
 
@@ -139,37 +140,8 @@
 
         </div>
       </div>
-
-      <h2>Comments</h2>
-      
-
-
-  <form class="post-new-comment" method="POST" action="https://api.staticman.net/v2/entry/iacmac-web-tools/moscow2019/master/data/comments">
-    <input type="hidden" name="options[redirect]" value="https://iacmac-web-tools.github.io/moscow2019/post/poster-01/#comment-submitted">
-    <input type="hidden" name="options[entryId]" value="2e10336435e6290f35168524671aece9">
-    <input name="fields[name]" type="text" class="post-comment-field" placeholder="Name">
-    <input name="fields[email]" type="email" class="post-comment-field" placeholder="email">
-    <textarea name="fields[body]" class="post-comment-field" placeholder="The content. Feel free to use Markdown." rows="10"></textarea>
-    <input type="submit" class="post-comment-field btn" value="Submit">
-  </form>
-  
-  <div id="post-submitted" class="dialog">
-  <h3>Thank you</h3>
-    <p>Your post has been submitted and will be published once it has been approved.</p>
-    <p><a href="https://github.com/eduardoboucas/hugo-plus-staticman/pulls">Click here</a> to see the pull request you generated.</p>
-    
-    <p><a href="#" class="btn">OK</a></p>
-  </div>
-      
-  
-  
-
-  
-
-  
-    <p>Hey, be the first who comment this article.</p>
-  
     </article>
+    <div id="graphcomment"></div>
   </main>
   <nav class="end-nav side-padding">
     
@@ -202,49 +174,33 @@
   </nav>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/highlight.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"
-    onload="renderMathInElement(document.body);"></script>
-  
-  <script src="https://iacmac-web-tools.github.io/moscow2019/js/core.min.js"></script>
-<script>
-  hljs.initHighlightingOnLoad();
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js"
+  integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/auto-render.min.js"
+  integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
 
-  function horzScrollbarDetect() {
-  
-    var $scrollable = $('.scrollable')
-    var $innerDiv = $('.scrollable > div');
-    
-    if ($innerDiv.outerWidth() < $innerDiv.get(0).scrollWidth) {
-      
-      $scrollable.addClass('is-scrollable');
-      console.log('Scrollbar, WOOT!')
-      
-    } else {
-      
-      $scrollable.removeClass('is-scrollable');
-      console.log('There is no scrollbar, only Zuul');
-      
-    }
-    
-  }
-  
-  $(document).ready(function() {
-    
-    horzScrollbarDetect();
-    console.log('document. boom. ready.')
-    
-  });
-  
-  $(window).resize(function() {
-    
-    horzScrollbarDetect();
-    console.log('window resized');
-    
-  });
+<script src="https://iacmac-web-tools.github.io/moscow2019/js/core.min.js"></script>
+<script>
+
 </script>
 
 
+<script type="text/javascript">
+
+   
+
+  
+  window.graphcomment_id = 'rymbln-test-site';
+
+   
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.src = 'https://graphcomment.com/js/integration.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+</script>
 </body>
 
 </html>

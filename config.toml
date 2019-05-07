@@ -8,12 +8,6 @@ publishDir = "docs"
 languageCode = "ru-ru"
 googleAnalytics = ""
 
-[staticman]
-endpoint = "https://api.staticman.net/v2/entry/"
-username = "iacmac-web-tools"
-repository = "moscow2019"
-branch = "master"
-
 [params]
 brand = "МАКМАХ 2019"
 description = "XXI международный конгресс МАКМАХ по антимикробной терапии и клинической микробиологии"

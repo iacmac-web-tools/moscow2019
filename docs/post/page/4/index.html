@@ -20,6 +20,7 @@
       background: #ecedef url("https://iacmac-web-tools.github.io/moscow2019/img/ignasi_pattern_s.png") repeat;
     }
   </style>
+
 </head>
 
   <body class="list-body">
@@ -72,47 +73,15 @@
     </main>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/highlight.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"
-    onload="renderMathInElement(document.body);"></script>
-  
-  <script src="https://iacmac-web-tools.github.io/moscow2019/js/core.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js"
+  integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/auto-render.min.js"
+  integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
+
+<script src="https://iacmac-web-tools.github.io/moscow2019/js/core.min.js"></script>
 <script>
-  hljs.initHighlightingOnLoad();
 
-  function horzScrollbarDetect() {
-  
-    var $scrollable = $('.scrollable')
-    var $innerDiv = $('.scrollable > div');
-    
-    if ($innerDiv.outerWidth() < $innerDiv.get(0).scrollWidth) {
-      
-      $scrollable.addClass('is-scrollable');
-      console.log('Scrollbar, WOOT!')
-      
-    } else {
-      
-      $scrollable.removeClass('is-scrollable');
-      console.log('There is no scrollbar, only Zuul');
-      
-    }
-    
-  }
-  
-  $(document).ready(function() {
-    
-    horzScrollbarDetect();
-    console.log('document. boom. ready.')
-    
-  });
-  
-  $(window).resize(function() {
-    
-    horzScrollbarDetect();
-    console.log('window resized');
-    
-  });
 </script>
-
   </body>
 </html>
