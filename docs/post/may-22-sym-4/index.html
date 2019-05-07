@@ -19,11 +19,12 @@
       background: #ecedef url("https://iacmac-web-tools.github.io/moscow2019/img/ignasi_pattern_s.png") repeat;
     }
   </style>
-
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
 </head>
 
 
 <body class="single-body">
+
   <nav class="nav-bar side-padding">
   <h1 class="nav-header"><a href="https://iacmac-web-tools.github.io/moscow2019/" class="nav-text">МАКМАХ 2019</a></h1>
 
@@ -75,14 +76,13 @@
 
         </div>
       </div>
-      <script src="https://utteranc.es/client.js"
-      repo="iacmac-web-tools/moscow2019"
-      issue-term="title"
-      label="comment"
-      theme="github-light"
-      crossorigin="anonymous"
-      async>
-</script>
+     
+<div id="remarkbox-div">
+    <noscript>
+      <iframe id=remarkbox-iframe src="https://my.remarkbox.com/embed?nojs=true" style="height:600px;width:100%;border:none!important" tabindex=0></iframe>
+    </noscript>
+  </div>
+  <div class="commentbox"></div>
     </article>
   </main>
   <nav class="end-nav side-padding">
@@ -118,7 +118,7 @@
 
 <script src="https://iacmac-web-tools.github.io/moscow2019/js/core.min.js"></script>
 <script>
-
+commentBox('5732466014814208-proj');
 </script>
 
 
