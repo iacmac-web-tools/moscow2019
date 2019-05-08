@@ -175,6 +175,38 @@ strong {
     transition: transform 0.2s cubic-bezier(0.25,0.8,0.25,1), box-shadow 0.2s cubic-bezier(0.25,0.8,0.25,1);
     box-shadow: 0 0.5rem 1rem 0 rgba(0,0,0,0.19), 0 0.3rem 0.3rem -0.1rem rgba(0,0,0,0.23);
 }
+
+/* CARD TIMETABLE */
+
+.card-no-shadow {
+    display: block;
+    margin: 2.2rem 0;
+    box-sizing: border-box;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 0.3rem;
+    
+}
+.card-no-shadow > .card-title {
+    margin: 0;
+    line-height: 1.2;
+}
+.card-no-shadow > .card-text {
+    margin: 0.25em 0;
+    line-height: 1.5;
+}
+.card-no-shadow > .card-subtext {
+    margin: 0;
+}
+.card-no-shadow > .card-subtext > p + p {
+    margin-left: 1em;
+    padding-left: 1em;
+    word-spacing: 0.5em;
+    border-left: thin solid #7a7b7c;
+}
+
+/* HOME CARD */
+
 .home-card {
     padding: 0.8em;
     font-size: 2em;
@@ -229,29 +261,7 @@ strong {
 .card-body {
     padding: 1em;
 }
-.card-title {
-    margin: 0;
-    line-height: 1.2;
-}
-.card-text {
-    margin: 1em 0;
-    line-height: 1.5;
-}
-.card-subtext {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    font-size: 0.8em;
-}
-.card-subtext > p {
-    margin: 0;
-}
-.card-subtext > p + p {
-    margin-left: 1em;
-    padding-left: 1em;
-    word-spacing: 0.5em;
-    border-left: thin solid #7a7b7c;
-}
+
 .end-nav {
     width: 100%;
     max-width: 49rem;
@@ -400,6 +410,8 @@ a {
 }
 
 
+
+
 footer {
     padding: 2em 0;
     margin: 2em 0 0 0;
@@ -419,9 +431,13 @@ footer {
         transform: scale(1);
     }
 }
-/* Medium devices (tablets, ~641px and up) */
+/* MOBILE devices (tablets, ~641px and up) */
 @media only screen and (max-width: 40.062em) {
+  
 
+    .desktop-content {
+        display: none;
+    }
     table, th, td {
         border: 1px solid #ccc;
     }
@@ -433,7 +449,11 @@ footer {
     table th, table td {
         padding: 6px 8px;
         vertical-align: top;
-        white-space: nowrap;
+        min-width: 8rem;
+        max-width: 24rem;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: normal;
     }
     table th {
         background: #ddd;
@@ -445,7 +465,13 @@ footer {
         background: #f3f3f3;
     }
 }
+/* DESKTOP */
 @media only screen and (min-width: 40.063em) {
+
+    .mobile-content {
+        display: none;
+    }
+
     body {
         font-size: 1.15rem;
     }
@@ -520,7 +546,11 @@ footer {
     td,
     th {
         padding: 0.5em 1em;
-        border: thin solid #D1D1D1
+        border: thin solid #D1D1D1;
+        min-width: 8rem;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: normal;
     }
     th {
         font-family: 'Helvetica';
