@@ -60,7 +60,7 @@
   <!-- Start of Twitter -->
   {{ if .Site.Params.twitter_card_whitelisted }}
       {{ if .Params.twitter_summary }}
-  <meta property="twitter:card" content="{{ .Params.twitter_summary }}">
+  <meta property="twitter:card" content="summary_large_image">
       {{ else if .Description }}
   <meta property="twitter:card" content="{{ .Description }}">
       {{ else }}
