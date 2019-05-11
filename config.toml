@@ -13,6 +13,7 @@ brand = "МАКМАХ 2019"
 description = "XXI международный конгресс МАКМАХ по антимикробной терапии и клинической микробиологии"
 bgimg = "img/sayagata-400px.png"
 homeimg = "img/grey-cloud.jpg"
+thumbnail = "img/site_thumbnail.jpg"
 
 [params.categories]
 [[ params.categories.item ]]
