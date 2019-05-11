@@ -9,10 +9,11 @@ Bruno Guy
 Carlos A. DiazGranados
 Stephen Savarino"
 categories: ["Posters"]
-featuredImage: "img/posters/poster-02.png"
+featuredImage: "img/posters/poster-02-thumb.png"
 dropCap: false
 displayInMenu: false
 displayInList: true
+displayComments: true
 draft: false
 comments: true
 weight: 2602

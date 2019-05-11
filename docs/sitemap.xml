@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://iacmac-web-tools.github.io/moscow2019/post/info/</loc>
+    <lastmod>2018-01-01T00:10:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iacmac-web-tools.github.io/moscow2019/post/registration/</loc>
+    <lastmod>2018-01-01T00:25:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iacmac-web-tools.github.io/moscow2019/post/programm/</loc>
+    <lastmod>2018-01-01T00:35:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iacmac-web-tools.github.io/moscow2019/post/nmo/</loc>
+    <lastmod>2018-01-01T00:45:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iacmac-web-tools.github.io/moscow2019/post/poster-session/</loc>
+    <lastmod>2018-01-01T10:35:35-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://iacmac-web-tools.github.io/moscow2019/post/may-22-sym-1/</loc>
     <lastmod>2018-05-22T09:00:00-06:00</lastmod>
   </url>
@@ -54,7 +79,7 @@
   
   <url>
     <loc>https://iacmac-web-tools.github.io/moscow2019/post/may-24-sym-2/</loc>
-    <lastmod>2018-05-24T09:00:00-06:00</lastmod>
+    <lastmod>2018-05-24T11:35:00-06:00</lastmod>
   </url>
   
   <url>
@@ -83,11 +108,6 @@
   </url>
   
   <url>
-    <loc>https://iacmac-web-tools.github.io/moscow2019/post/poster-session/</loc>
-    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://iacmac-web-tools.github.io/moscow2019/categories/may-22/</loc>
     <lastmod>2018-05-22T09:00:00-06:00</lastmod>
   </url>
@@ -109,8 +129,14 @@
   </url>
   
   <url>
+    <loc>https://iacmac-web-tools.github.io/moscow2019/categories/info/</loc>
+    <lastmod>2018-01-01T00:10:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://iacmac-web-tools.github.io/moscow2019/post/</loc>
-    <lastmod>2018-05-22T09:00:00-06:00</lastmod>
+    <lastmod>2018-01-01T00:10:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -121,7 +147,7 @@
   
   <url>
     <loc>https://iacmac-web-tools.github.io/moscow2019/</loc>
-    <lastmod>2018-05-22T09:00:00-06:00</lastmod>
+    <lastmod>2018-01-01T00:10:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -131,7 +157,7 @@
   
   <url>
     <loc>https://iacmac-web-tools.github.io/moscow2019/categories/posters/</loc>
-    <lastmod>2018-05-26T00:01:01+00:00</lastmod>
+    <lastmod>2018-01-01T10:35:35-06:00</lastmod>
   </url>
   
 </urlset>

@@ -17,11 +17,18 @@
         </div>
       </div>
     </article>
-    <div class="commentbox"></div>
+    {{ if .Params.displayComments }}
+        <div class="commentbox"></div>
+    {{ end }}
   </main>
+
   <nav class="end-nav side-padding">
-    {{ with .PrevInSection }}
-    {{ .Render "li-next" }}
+    {{ if .Params.hideNext }}
+     
+    {{ else }}
+        {{ with .PrevInSection }}
+          {{ .Render "li-next" }}
+        {{ end }}
     {{ end }}
     {{ partial "home-card.html" . }}
   </nav>

@@ -189,6 +189,8 @@ strong {
     background-position: center center;
     object-fit: cover;
 }
+
+
 .blog-card {
     display: flex;
     flex-direction: column;
@@ -498,6 +500,13 @@ footer {
         height: 100%;
         width: 15em;
     }
+
+    .card-img-person {
+        width: 150px;
+        margin: 0;
+        height: 100%;
+    }
+
     .card-img-overlay {
         border-radius: 0.2rem 0 0 0;
     }

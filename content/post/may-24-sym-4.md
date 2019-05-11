@@ -6,6 +6,7 @@ categories: ["may-24"]
 dropCap: true
 displayInMenu: false
 displayInList: true
+displayComments: true
 draft: false
 timeStart: "16:20"
 timeEnd: "18:30"

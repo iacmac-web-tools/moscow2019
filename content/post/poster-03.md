@@ -10,16 +10,17 @@ Serra Orsten
 Patrizio Pezzotti
 Gabriela Loredana Popa"
 categories: ["Posters"]
-featuredImage: "img/posters/poster-03.png"
+featuredImage: "img/posters/poster-03-thumb.png"
 dropCap: false
 displayInMenu: false
 displayInList: true
+displayComments: true
 draft: false
 weight: 2603
 ---
 {{< pswp-init >}}
 
-{{< figure link="/img/posters/poster-03.png">}}
+{{< figure link="/img/posters/poster-03.png" >}}
 
 ## Background: 
 

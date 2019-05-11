@@ -13,10 +13,11 @@ Marie-Edith Lafon
 Isabelle Leparc-Goffart
 Denis Malvy"
 categories: ["Posters"]
-featuredImage: "img/posters/poster-01.png"
+featuredImage: "img/posters/poster-01-thumb.png"
 dropCap: false
 displayInMenu: false
 displayInList: true
+displayComments: true
 draft: false
 weight: 2601
 ---

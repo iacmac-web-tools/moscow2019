@@ -1,11 +1,12 @@
 ---
 title: "Симпозиум «Антибиотики и реаниматология»"
-date: 2018-05-24T09:00:00-06:00
+date: 2018-05-24T11:35:00-06:00
 description: "Со-председатели: Н.Н. Климко, В.В. Кулабухов, В.А. Руднов"
 categories: ["may-24"]
 dropCap: true
 displayInMenu: false
 displayInList: true
+displayComments: true
 draft: false
 timeStart: "11:35"
 timeEnd: "13:30"
