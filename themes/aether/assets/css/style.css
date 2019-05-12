@@ -209,16 +209,65 @@ strong {
 .card-img-container {
     position: relative;
 }
-.card-img-container-person {
-    position: relative;
-    /* min-width: 8rem; */
-}
-.card-time-container {
-    padding:1.5em 1.3em;
-    max-width: 25rem;
-    /* min-width: 8rem; */
+
+
+.event-card { 
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-items: stretch;
+    border-radius: 0.2rem;
 }
 
+.card-body-person {
+    order:3; flex-basis:100%;
+    padding: 1.5em 1.3em;
+
+}
+.card-img-container-person {
+    order:2; 
+    flex-basis:50%;
+    padding: 1.5em 1.3em;
+}
+.card-time-container-person {
+    padding:1.5em 1.3em;
+    order:1; flex-basis:100%; 
+}
+.card-time-container-person-no-picture {
+    padding:1.5em 1.3em;
+    order:1; flex-basis:100%; 
+}
+
+@media screen and (min-width:600px) {
+    .event-card  {
+        flex-wrap:nowrap;
+    } 
+    
+    .card-time-container-person {
+         flex-basis:100px;
+         order:1;
+     }
+     .card-time-container-person-no-picture {
+        flex-basis:415px;
+        order:1;
+    }
+
+     .card-img-container-person {
+         flex-basis:200px;
+         order:2;
+     }
+     .card-body-person {
+         /* flex-basis:1; */
+         order:3;
+     }
+ }
+
+.card-time-container {
+    padding:1.5em 1.3em;
+    /* max-width: 15rem;
+    width: 25%; */
+}
 .card-time-container > h1 {
     font-size: 2em;
     clear: both;
@@ -238,6 +287,9 @@ strong {
     border-radius: 0.3rem 0.3rem 0 0;
     margin: 0 0 -0.28em 0;
     object-fit: cover;
+    max-height: unset;
+    max-width: 10em;
+
 }
 
 
@@ -516,11 +568,7 @@ footer {
         align-items: stretch;
     }
 
-    .event-card { 
-        flex-direction: row;
-        align-items: stretch;
-        border-radius: 0.2rem;
-    }
+ 
     .card-img {
         border-radius: 0.2rem 0 0 0.2rem;
         margin: 0;
@@ -529,13 +577,7 @@ footer {
         width: 15em;
     }
 
-    .card-img-person {
-        border-radius: 0.2rem 0 0 0.2rem;
-        margin: 0;
-        max-height: unset;
-        height: 100%;
-        width: 100%;
-    }
+    
 
     .card-img-overlay {
         border-radius: 0.2rem 0 0 0;
