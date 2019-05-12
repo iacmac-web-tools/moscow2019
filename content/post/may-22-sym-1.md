@@ -29,7 +29,7 @@ weight: 2201
         </div>
         <div class="card-img-container-person">
             <picture>
-                <img src="http://www.iacmac.ru/images/photos/person/idelevitch_ea.jpg" class="card-img-person">
+                <img src="https://pp.userapi.com/c856136/v856136477/40a73/uXNobaqce44.jpg" class="card-img-person">
             </picture>
         </div>
         <div class="card-body-person">
@@ -57,7 +57,7 @@ weight: 2201
         </div>
         <div class="card-img-container-person">
             <picture>
-                <img src="https://pp.userapi.com/c847123/v847123662/1fc549/Z421P8DzU0k.jpg" class="card-img-person">
+                <img src="https://pp.userapi.com/c855332/v855332166/3eafb/Vhnc7ztDnEk.jpg" class="card-img-person">
             </picture>
         </div>
         <div class="card-body-person">
@@ -71,7 +71,7 @@ weight: 2201
         </div>
         <div class="card-img-container-person">
             <picture>
-                <img src="http://www.iacmac.ru/images/photos/person/sukhorukova_mv.jpg" class="card-img-person">
+                <img src="https://pp.userapi.com/c849216/v849216477/1910fd/JJbO9qbpQJE.jpg" class="card-img-person">
             </picture>
         </div>
         <div class="card-body-person">
