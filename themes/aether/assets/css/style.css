@@ -245,7 +245,7 @@ strong {
     } 
     
     .card-time-container-person {
-         flex-basis:100px;
+         flex-basis:150px;
          order:1;
      }
      .card-time-container-person-no-picture {
@@ -265,8 +265,7 @@ strong {
 
 .card-time-container {
     padding:1.5em 1.3em;
-    /* max-width: 15rem;
-    width: 25%; */
+    flex-basis:30%;
 }
 .card-time-container > h1 {
     font-size: 2em;
@@ -584,6 +583,7 @@ footer {
     }
     .card-body {
         padding: 1.5em 1.3em;
+        flex-basis:100%; 
     }
     .card-title {
         font-size: 1.27em;

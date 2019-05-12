@@ -8,7 +8,7 @@ displayInMenu: false
 displayInList: true
 displayComments: true
 draft: false
-timeStart: "9:00"
+timeStart: "09:00"
 timeEnd: "11:15"
 weight: 2201
 ---
