@@ -19,10 +19,10 @@ weight: 2301
             <h1>09.00 – 09.25</h1>
         </div>
         <div class="card-img-container-person">
-            <picture>
+            <!-- <picture> -->
                 <img src="https://pp.userapi.com/c855332/v855332166/3eacb/gN9wOhmqpTQ.jpg" class="card-img-person">
                 <img src="https://pp.userapi.com/c855332/v855332166/3eac3/FpVukp7cKsI.jpg" class="card-img-person">
-            </picture>
+            <!-- </picture> -->
         </div>
         <div class="card-body-person">
             <h2 class="card-title">Концепция профилактики инфекций в родовспоможении</h2>
@@ -78,7 +78,7 @@ weight: 2301
         </div>
         <div class="card-body-person">
             <h2 class="card-title">Дискуссия</h2>
-            <p class="card-text">Вопросы докладчикам можно задавать в комментариях</p>
+            <p class="card-text">Вопросы докладчикам можно задавать в комментариях ниже</p>
         </div>
     </div>
 </div>

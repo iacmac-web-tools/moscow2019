@@ -29,7 +29,6 @@ weight: 2205
     </div>
     <div class="event-card" >
         <div class="card-time-container-person">
-
             <h1>17.25 – 17.50</h1>
         </div>
         <div class="card-img-container-person">
@@ -44,7 +43,6 @@ weight: 2205
     </div>
     <div class="event-card" >
         <div class="card-time-container-person">
-
             <h1>17.50 – 18.15</h1>
         </div>
         <div class="card-img-container-person">
@@ -59,7 +57,6 @@ weight: 2205
     </div>
     <div class="event-card" >
         <div class="card-time-container-person">
-
             <h1>18.15 – 18.30</h1>
         </div>
         <div class="card-img-container-person">

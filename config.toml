@@ -1,16 +1,16 @@
-baseurl = "https://iacmac-web-tools.github.io/moscow2019/"
+baseurl = "http://xxi.iacmac.ru"
 title = "XXI международный конгресс МАКМАХ"
-author = "22–24 мая 2019 г., Москва"
 canonifyurls = true
 paginate = 5
 theme = "aether"
 publishDir = "docs"
 languageCode = "ru-ru"
-googleAnalytics = ""
+googleAnalytics = "UA-85066436-8"
 
 [params]
-brand = "МАКМАХ 2019"
+brand = "XXI Конгресс МАКМАХ"
 description = "XXI международный конгресс МАКМАХ по антимикробной терапии и клинической микробиологии"
+bgcolor = "#387469"
 bgimg = "img/sayagata-400px.png"
 homeimg = "img/grey-cloud.jpg"
 thumbnail = "img/site_thumbnail.jpg"

@@ -76,7 +76,7 @@ weight: 2304
         </div>
         <div class="card-body-person">
             <h2 class="card-title">Дискуссия</h2>
-            <p class="card-text">Вопросы докладчикам можно задавать в комментариях</p>
+            <p class="card-text">Вопросы докладчикам можно задавать в комментариях ниже</p>
         </div>
     </div>
 </div>

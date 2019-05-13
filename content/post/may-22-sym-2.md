@@ -32,7 +32,6 @@ weight: 2202
     </div>
     <div class="event-card" >
         <div class="card-time-container-person">
-
             <h1>12.00 – 12.30 </h1>
         </div>
         <div class="card-img-container-person">
@@ -47,7 +46,6 @@ weight: 2202
     </div>
     <div class="event-card" >
         <div class="card-time-container-person">
-
             <h1>12.30 – 13.00</h1>
         </div>
         <div class="card-img-container-person">
@@ -62,7 +60,6 @@ weight: 2202
     </div>
     <div class="event-card" >
         <div class="card-time-container-person">
-
             <h1>13.00 – 13.30</h1>
         </div>
         <div class="card-img-container-person">
@@ -77,12 +74,11 @@ weight: 2202
     </div>
       <div class="event-card" >
         <div class="card-time-container-person-no-picture">
-
             <h1>13.30 – 13.45</h1>
         </div>
         <div class="card-body-person">
             <h2 class="card-title">Дискуссия</h2>
-            <p class="card-text">Вопросы докладчикам можно задавать в комментариях</p>
+            <p class="card-text">Вопросы докладчикам можно задавать в комментариях ниже</p>
         </div>
     </div>
 </div>

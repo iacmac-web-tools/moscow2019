@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags - XXI международный конгресс МАКМАХ</title>
-    <link>https://iacmac-web-tools.github.io/moscow2019/tags/</link>
+    <link>http://xxi.iacmac.ru/tags/</link>
     <description>Recent content in Tags on XXI международный конгресс МАКМАХ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     
-        <atom:link href="https://iacmac-web-tools.github.io/moscow2019/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://xxi.iacmac.ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

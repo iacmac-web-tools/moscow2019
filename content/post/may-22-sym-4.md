@@ -15,7 +15,6 @@ weight: 2204
 <div class="card-container">
       <div class="event-card" >
         <div class="card-time-container-person-no-picture">
-
             <h1>16.30 – 17.00</h1>
         </div>
         <div class="card-body-person">

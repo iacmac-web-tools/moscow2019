@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Информация - XXI международный конгресс МАКМАХ</title>
-    <link>https://iacmac-web-tools.github.io/moscow2019/categories/info/</link>
+    <link>http://xxi.iacmac.ru/categories/info/</link>
     <description>Recent content in Информация on XXI международный конгресс МАКМАХ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:10:00 -0600</lastBuildDate>
     
-        <atom:link href="https://iacmac-web-tools.github.io/moscow2019/categories/info/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://xxi.iacmac.ru/categories/info/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Общая информация</title>
-      <link>https://iacmac-web-tools.github.io/moscow2019/post/info/</link>
+      <link>http://xxi.iacmac.ru/post/info/</link>
       <pubDate>Mon, 01 Jan 2018 00:10:00 -0600</pubDate>
       
-      <guid>https://iacmac-web-tools.github.io/moscow2019/post/info/</guid>
+      <guid>http://xxi.iacmac.ru/post/info/</guid>
       <description></description>
     </item><item>
       <title>Регистрация и оплата</title>
-      <link>https://iacmac-web-tools.github.io/moscow2019/post/registration/</link>
+      <link>http://xxi.iacmac.ru/post/registration/</link>
       <pubDate>Mon, 01 Jan 2018 00:25:00 -0600</pubDate>
       
-      <guid>https://iacmac-web-tools.github.io/moscow2019/post/registration/</guid>
+      <guid>http://xxi.iacmac.ru/post/registration/</guid>
       <description></description>
     </item><item>
       <title>Программа</title>
-      <link>https://iacmac-web-tools.github.io/moscow2019/post/programm/</link>
+      <link>http://xxi.iacmac.ru/post/programm/</link>
       <pubDate>Mon, 01 Jan 2018 00:35:00 -0600</pubDate>
       
-      <guid>https://iacmac-web-tools.github.io/moscow2019/post/programm/</guid>
+      <guid>http://xxi.iacmac.ru/post/programm/</guid>
       <description></description>
     </item><item>
       <title>Баллы НМО</title>
-      <link>https://iacmac-web-tools.github.io/moscow2019/post/nmo/</link>
+      <link>http://xxi.iacmac.ru/post/nmo/</link>
       <pubDate>Mon, 01 Jan 2018 00:45:00 -0600</pubDate>
       
-      <guid>https://iacmac-web-tools.github.io/moscow2019/post/nmo/</guid>
+      <guid>http://xxi.iacmac.ru/post/nmo/</guid>
       <description></description>
     </item>
   </channel>

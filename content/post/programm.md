@@ -12,23 +12,20 @@ draft: false
 weight: 0003
 ---
 
-<a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)"   href="{{< ref "categories/may-22" >}}" class="card blog-card" rel="bookmark">
-
+<div class="card-container">
+<a  href='{{< ref "categories/may-22" >}}' class="event-card">
   <article class="card-body">
     <h2 class="card-title">22 мая</h2>
   </article>
 </a>
-
-<a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)"   href="{{< ref "categories/may-23" >}}" class="card blog-card" rel="bookmark">
-
+<a href='{{< ref "categories/may-23" >}}' class="event-card">
   <article class="card-body">
     <h2 class="card-title">23 мая</h2>
   </article>
 </a>
-
-<a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)"   href="{{< ref "categories/may-24" >}}" class="card blog-card" rel="bookmark">
-
+<a href='{{< ref "categories/may-24" >}}' class="event-card" >
   <article class="card-body">
     <h2 class="card-title">24 мая</h2>
   </article>
 </a>
+<div>
