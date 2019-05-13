@@ -13,37 +13,77 @@ timeEnd: "13:45"
 weight: 2202
 ---
 
-| Время            | Тема           | Докладчик  |
-| ------------- | ------------- | ----- |
-| 11.30 – 12.00 | Вакцины и антибиотикорезистентность                          | Р.С. Козлов (Россия)    | 
-| 12.00 – 12.30 | Контроль антибиотикотерапии в ЛПУ. Зачем это главврачу?      | Д.Н. Проценко (Россия)  | 
-| 12.30 – 13.00 | Антимикробная терапия в педиатрии                            | И.Г. Солдатова (Россия) | 
-| 13.00 – 13.30 | Инфекционный контроль: простые решения для непростых проблем | О.Н. Ершова (Россия)    | 
-| 13.30 – 13.45 |	Дискуссия | |
-
-<!-- {{< raw >}}
 
 
-        <a class="card blog-card">
-            <div class="card-time-container">
-                <h1>11.30 – 12.00</h1>
-            </div>
-                  <article class="card-body">
-                <h2 class="card-title"> 
-                    Вакцины и антибиотикорезистентность
-                </h2>
-                <p class="card-text">
-                    Р.С. Козлов (Россия)
-                </p>
-            </article>
-            <div class="card-img-container">
-                <p class="card-img-overlay">Следующий постер</p>
-   <img src="http://www.iacmac.ru/images/photos/person/kozlov_rs.jpg" class="card-img-person" >
-            </div>
-            
-      
-        </a>
-     
+<div class="card-container">
+    <div class="event-card" >
+        <div class="card-time-container-person">
+            <h1>11.30 – 12.00</h1>
+        </div>
+        <div class="card-img-container-person">
+            <picture>
+                <img src="https://pp.userapi.com/c855332/v855332166/3e993/bP7eCnQ5DF0.jpg" class="card-img-person">
+            </picture>
+        </div>
+        <div class="card-body-person">
+            <h2 class="card-title">Вакцины и антибиотикорезистентность</h2>
+            <p class="card-text">Козлов Роман Сергеевич — доктор медицинских наук, профессор, член-корреспондент РАН, ректор ФГБОУ ВО «Смоленский государственный медицинский университет», директор НИИ антимикробной химиотерапии ФГБОУ ВО «Смоленский государственный медицинский университет» Министерства здравоохранения Российской Федерации, президент Межрегиональной ассоциации по клинической микробиологии и антимикробной химиотерапии (МАКМАХ), главный внештатный специалист Министерства здравоохранения Российской Федерации по клинической микробиологии и антимикробной резистентности, г. Смоленск, Россия</p>
+        </div>
+    </div>
+    <div class="event-card" >
+        <div class="card-time-container-person">
 
-{{< /raw >}} -->
+            <h1>12.00 – 12.30 </h1>
+        </div>
+        <div class="card-img-container-person">
+            <picture>
+                <img src="https://pp.userapi.com/c855332/v855332166/3ea53/TxsQ_D-1hVY.jpg" class="card-img-person">
+            </picture>
+        </div>
+        <div class="card-body-person">
+            <h2 class="card-title">Контроль антибиотикотерапии в ЛПУ. Зачем это главврачу?</h2>
+            <p class="card-text">Проценко Денис Николаевич — кандидат медицинских наук, главный специалист по анестезиологии-реаниматологии Департамента здравоохранения Москвы, главный врач ГБУЗ «Городская клиническая больница имени С.С. Юдина» Департамента здравоохранения Москвы, доцент кафедры анестезиологии и реаниматологии ФДПО ФГБОУ ВО «Российский национальный исследовательский медицинский университет им. Н.И. Пирогова» Министерства здравоохранения Российской Федерациигова, г. Москва, Россия</p>
+        </div>
+    </div>
+    <div class="event-card" >
+        <div class="card-time-container-person">
+
+            <h1>12.30 – 13.00</h1>
+        </div>
+        <div class="card-img-container-person">
+            <picture>
+                <img src="https://pp.userapi.com/c855332/v855332166/3ea83/u1tFg-ze2rI.jpg" class="card-img-person">
+            </picture>
+        </div>
+        <div class="card-body-person">
+            <h2 class="card-title">Антимикробная терапия в педиатрии</h2>
+            <p class="card-text">Солдатова Ирина Геннадьевна — доктор медицинских наук, профессор, заместитель министра здравоохранения Московской области, г. Москва, Россия</p>
+        </div>
+    </div>
+    <div class="event-card" >
+        <div class="card-time-container-person">
+
+            <h1>13.00 – 13.30</h1>
+        </div>
+        <div class="card-img-container-person">
+            <picture>
+                <img src="https://pp.userapi.com/c855332/v855332166/3e9c3/8IuuRXF6Gh0.jpg" class="card-img-person">
+            </picture>
+        </div>
+        <div class="card-body-person">
+            <h2 class="card-title">Инфекционный контроль: простые решения для непростых проблем</h2>
+            <p class="card-text">Ершова Ольга Николаевна — доктор медицинских наук, профессор кафедры гигиены, эпидемиологии и экологии человека «Института повышения квалификации» ФМБА России, заместитель главного врача по эпидемиологической работе ФГАУ «НИИ нейрохирургии имени Н.Н. Бурденко» Министерства здравоохранения Российской Федерации, г. Москва, Россия</p>
+        </div>
+    </div>
+      <div class="event-card" >
+        <div class="card-time-container-person-no-picture">
+
+            <h1>13.30 – 13.45</h1>
+        </div>
+        <div class="card-body-person">
+            <h2 class="card-title">Дискуссия</h2>
+            <p class="card-text">Вопросы докладчикам можно задавать в комментариях</p>
+        </div>
+    </div>
+</div>
 

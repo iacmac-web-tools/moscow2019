@@ -92,7 +92,7 @@ strong {
     overflow-y: auto;
     margin: 0;
     padding: 3.5em 0 0 0;
-    background-color: #000;
+    background-color: #007060;
     opacity: 0;
     transition: visibility 0.2s ease-out, opacity 0.2s ease-out;
 }
