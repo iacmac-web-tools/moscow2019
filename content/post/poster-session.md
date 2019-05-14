@@ -12,7 +12,7 @@ draft: false
 weight: 0005
 ---
 
-{{< pswp-init >}}
+<!-- {{< pswp-init >}}
 
 {{< gallery title="Постеры к принятым тезисам" >}}
 
@@ -25,4 +25,4 @@ title="Evaluation or Rapid Diagnostic Tests (RDTs) and Enzyme-Linked Immunosorbe
 {{< figure link="/img/posters/poster-03.png" thumb="-thumb"
 title="Potential risk factors associated with human cystic echinoccoccosis infection investigated trough a semi-structured questionnaire during a large ultrasound prevalence survey in Eastern Europe" caption="Francesca Tamarozzi, Okan Akhan"  >}}
 
-{{< /gallery >}}
+{{< /gallery >}} -->
