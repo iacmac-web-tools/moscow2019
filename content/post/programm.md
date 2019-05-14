@@ -13,17 +13,17 @@ weight: 0003
 ---
 
 <div class="card-container">
-<a  href='{{< ref "categories/may-22" >}}' class="event-card">
+<a  href='{{< ref "categories/may-22" >}}' class="card event-card">
   <article class="card-body">
     <h2 class="card-title">22 мая</h2>
   </article>
 </a>
-<a href='{{< ref "categories/may-23" >}}' class="event-card">
+<a href='{{< ref "categories/may-23" >}}' class="card event-card">
   <article class="card-body">
     <h2 class="card-title">23 мая</h2>
   </article>
 </a>
-<a href='{{< ref "categories/may-24" >}}' class="event-card" >
+<a href='{{< ref "categories/may-24" >}}' class="card event-card" >
   <article class="card-body">
     <h2 class="card-title">24 мая</h2>
   </article>
