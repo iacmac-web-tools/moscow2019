@@ -1,6 +1,6 @@
 ---
-title: "Программа"
-date: 2018-01-01T00:35:00-06:00
+title: "Программа и комментарии"
+date: 2018-01-01T00:01:00-06:00
 description: ""
 categories: ["Info"]
 dropCap: false

@@ -1,6 +1,6 @@
 ---
 title: "Регистрация и оплата"
-date: 2018-01-01T00:25:00-06:00
+date: 2018-01-01T00:02:00-06:00
 description: ""
 categories: ["Info"]
 dropCap: false
