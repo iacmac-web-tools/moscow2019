@@ -3,7 +3,7 @@ title: "Постерная сессия"
 date: 2018-01-01T10:35:35-06:00
 description: ""
 categories: ["Posters"]
-featuredImage: "img/posters/poster-01-thumb.png"
+# featuredImage: "img/posters/poster-01-thumb.png"
 dropCap: false
 displayInMenu: false
 displayInList: true
