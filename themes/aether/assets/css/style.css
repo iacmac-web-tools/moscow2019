@@ -3,7 +3,8 @@ body {
                  "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     color: #141823;
     font-size: 1.1em;
-    background-color: #ecedef;
+    /* background-color: #ecedef; */
+    background-color: #387469;
     margin: 0;
     padding: 0 0 2em 0;
     display: flex;
@@ -31,11 +32,13 @@ strong {
 }
 .nav-header {
     margin: 0;
+    color: white;
 }
 .nav-text {
     text-decoration: none;
     z-index: 105;
     font-size: 0.7em;
+    color: white;
 }
 .hamburger-menu {
     display: block;
@@ -62,7 +65,8 @@ strong {
     width: 33px;
     height: 4px;
     position: relative;
-    background-color: #141823;
+    /* background-color: #141823; */
+    background-color: white;
     border-radius: 3px;
     transform-origin: center;
     transition: transform 0.3s cubic-bezier(0.77,0.2,0.05,1.0),
@@ -154,6 +158,7 @@ strong {
     margin: 0.1em 0 0.2em 0;
     font-size: 1.8em;
     text-transform: uppercase;
+    color: white;
 }
 .list-header-subtext {
     font-weight: normal;
@@ -225,6 +230,11 @@ strong {
     padding: 1.5em 1.3em;
 
 }
+
+.card-body-person > h2 {
+    color: black;
+}
+
 .card-img-container-person {
     order:2; 
     flex-basis:50%;
@@ -234,9 +244,16 @@ strong {
     padding:1.5em 1.3em;
     order:1; flex-basis:100%; 
 }
+
+.card-time-container-person > h1 {
+    /* color: black; */
+    margin: 0px;
+}
+
 .card-time-container-person-no-picture {
     padding:1.5em 1.3em;
     order:1; flex-basis:100%; 
+  
 }
 
 @media screen and (min-width:600px) {
@@ -261,6 +278,10 @@ strong {
          /* flex-basis:1; */
          order:3;
      }
+
+     .card-body-person > h2 {
+        color: black !important;
+    }
  }
 
 .card-time-container {
@@ -377,6 +398,7 @@ strong {
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
     clear: both;
+    color: #387469
 }
 img {
     display: block;
@@ -496,6 +518,7 @@ footer {
 .card-no-shadow > .card-title {
     margin: 0;
     line-height: 1.2;
+    color: black;
 }
 .card-no-shadow > .card-text {
     margin: 0.25em 0;
@@ -587,6 +610,7 @@ footer {
     }
     .card-title {
         font-size: 1.27em;
+        color: black;
     }
     .card-text {
         font-size: 0.95em;
