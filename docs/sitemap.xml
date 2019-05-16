@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://xxi.iacmac.ru/post/photo/</loc>
+    <lastmod>2018-01-01T00:07:00-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://xxi.iacmac.ru/post/info/</loc>
     <lastmod>2018-01-01T00:03:00-06:00</lastmod>
   </url>
@@ -115,7 +120,7 @@
   
   <url>
     <loc>http://xxi.iacmac.ru/post/</loc>
-    <lastmod>2018-01-01T00:03:00-06:00</lastmod>
+    <lastmod>2018-01-01T00:07:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -126,13 +131,13 @@
   
   <url>
     <loc>http://xxi.iacmac.ru/</loc>
-    <lastmod>2018-01-01T00:03:00-06:00</lastmod>
+    <lastmod>2018-01-01T00:07:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://xxi.iacmac.ru/categories/info/</loc>
-    <lastmod>2018-01-01T00:03:00-06:00</lastmod>
+    <lastmod>2018-01-01T00:07:00-06:00</lastmod>
   </url>
   
   <url>

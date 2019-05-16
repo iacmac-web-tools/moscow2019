@@ -34,7 +34,7 @@
     </item><item>
       <title>Информация</title>
       <link>http://xxi.iacmac.ru/categories/info/</link>
-      <pubDate>Mon, 01 Jan 2018 00:03:00 -0600</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:07:00 -0600</pubDate>
       
       <guid>http://xxi.iacmac.ru/categories/info/</guid>
       <description></description>
@@ -44,6 +44,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://xxi.iacmac.ru/categories/poster-session/</guid>
+      <description></description>
+    </item><item>
+      <title>Постеры и Тезисы</title>
+      <link>http://xxi.iacmac.ru/categories/posters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://xxi.iacmac.ru/categories/posters/</guid>
       <description></description>
     </item>
   </channel>
