@@ -8,7 +8,7 @@ dropCap: false
 displayInMenu: false
 displayInList: true
 hideNext: true
-draft: false
+draft: true
 weight: 0005
 ---
 
