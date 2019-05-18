@@ -15,6 +15,11 @@ bgcolor = "#387469"
 homeimg = "img/grey-cloud.jpg"
 thumbnail = "img/site_thumbnail.jpg"
 
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]  
+  posts = ["HTML", "JSON", "RSS"]
+
 [params.categories]
 [[ params.categories.item ]]
     key = "Info"
