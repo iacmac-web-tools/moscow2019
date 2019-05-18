@@ -1,5 +1,5 @@
 ---
-title: "Search"
+title: "Поиск"
 date: 2018-01-01T00:02:00-06:00
 description: ""
 categories: ["Info"]
@@ -17,4 +17,4 @@ weight: 0000
                 <input id="searchinput" type="search" name="q" class="form-control">
             </div>
         </form>
-        <div id="blog-listing-medium"></div>
+        <div id="blog-listing-medium" class="card-container"></div>

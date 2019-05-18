@@ -11,13 +11,15 @@
 {{ $highlight := resources.Get "js/highlight.min.js" | minify }}
 {{ $autorender := resources.Get "js/auto-render.min.js" | minify }}
 {{ $jquery := resources.Get "js/jquery-3.4.1.min.js" | minify }}
-{{ $lunar := resources.Get "js/lunr-search.js" | minify }}
 {{ $lunarjs := resources.Get "js/lunr.js" | minify }}
+{{ $lunarrujs := resources.Get "js/lunr.ru.js" | minify }}
+{{ $lunar := resources.Get "js/lunr-search.js" | minify }}
 <script src="{{ $corejs.Permalink }}"></script>
 <script src="{{ $highlight.Permalink }}"></script>
 <script src="{{ $jquery.Permalink }}"></script>
 <script src="{{ $katex.Permalink }}"></script>
 <script src="{{ $lunarjs.Permalink }}"></script>
+<script src="{{ $lunarrujs.Permalink }}"></script>
 <script src="{{ $lunar.Permalink }}"></script>
 <script src="{{ $autorender.Permalink }}" onload="renderMathInElement(document.body);"></script>
 <script>

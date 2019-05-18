@@ -182,7 +182,25 @@ strong {
     box-shadow: 0 0.5rem 1rem 0 rgba(0,0,0,0.19), 0 0.3rem 0.3rem -0.1rem rgba(0,0,0,0.23);
 }
 
+/* SEARCH INPUT */
 
+#searchinput{
+    width:320px;
+    height:49px; 
+    border:3px solid #387469;
+    border-radius: 12px;
+    padding-left:12px;
+    padding-top:1px;
+    font-size:22px;
+    background-repeat:no-repeat;
+    background-position:center;outline:0;
+    }
+    
+    #searchinput::-webkit-search-cancel-button{
+        position:relative;
+        right:6px;   
+        margin: 6px; 
+    }
 
 /* HOME CARD */
 

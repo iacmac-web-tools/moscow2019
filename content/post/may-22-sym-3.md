@@ -8,6 +8,7 @@ displayInMenu: false
 displayInList: true
 displayComments: true
 draft: false
+day: "22 мая"
 timeStart: "14:00"
 timeEnd: "16:15"
 weight: 2203

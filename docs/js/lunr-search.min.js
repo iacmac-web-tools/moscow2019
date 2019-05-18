@@ -1,31 +1,17 @@
-var lunrIndex,$results,pagesIndex;function getQueryVariable(variable){var query=window.location.search.substring(1);var vars=query.split('&');for(var i=0;i<vars.length;i++){var pair=vars[i].split('=');if(pair[0]===variable){return decodeURIComponent(pair[1].replace(/\+/g,'%20'));}}}
-var searchTerm=getQueryVariable('query');function initLunr(){$.getJSON("/index.json").done(function(index){pagesIndex=index;lunrIndex=lunr(function(){this.ref('uri');this.field('title');this.field('description');this.field('summary');pagesIndex.forEach(function(page){this.add(page);},this)});}).fail(function(jqxhr,textStatus,error){var err=textStatus+", "+error;console.error("Error getting Hugo index file:",err);});}
+lunr.tokenizer=function(str){if(!str)return[]
+if(Array.isArray(str))return str.map(function(t){return t.toLowerCase()})
+var str=str.replace(/^\s+/,'')
+for(var i=str.length-1;i>=0;i--){if(/\S/.test(str.charAt(i))){str=str.substring(0,i+1)
+break}}
+return str.split(/\s+/).map(function(token){return token.toLowerCase()})}
+var lunrIndex,$results,pagesIndex;function initLunr(){$.getJSON("/index.json").done(function(index){pagesIndex=index;lunrIndex=lunr(function(){this.ref('uri');this.field('title');this.field('description');this.field('summary');lunr.ru.call(lunrIndex);pagesIndex.forEach(function(page){this.add(page);},this)});}).fail(function(jqxhr,textStatus,error){var err=textStatus+", "+error;console.error("Error getting Hugo index file:",err);});}
 function initUI(){$results=$("#blog-listing-medium");$("#searchinput").keyup(function(){$results.empty();var query=$(this).val();console.log("query = "+query);if(query.length<2){return;}
 var results=search(query);console.log(results);renderResults(results);});}
-function search(query){return lunrIndex.search(query,{wildcard:lunr.Query.wildcard.LEADING|lunr.Query.wildcard.TRAILING}).map(function(result){return pagesIndex.filter(function(page){return page.uri===result.ref;})[0];});}
+function search(query){return lunrIndex.search(query).map(function(result){return pagesIndex.filter(function(page){return page.uri===result.ref;})[0];});}
 function renderResults(results){if(!results.length){$results.append("<p>Информация не найдена</p>");return;}
-results.sort(function(a,b){return new Date(b.date)-new Date(a.date);});results.slice(0,100).forEach(function(result){var $resultstring="<section class='post'>"+
-"<div  class='row'>"+
-"<div class='col-md-4'> "+
-"<div class='image'>"+
-"<a href='"+result.uri+"'>"+
-"<img src='"+result.banner+"' class='img-responsive' alt=''>"+
-"</a>"+
-"</div>"+
-"</div>"+
-"<div class='col-md-8'>"+
-"<h2><a href='"+result.uri+"'>"+result.title+"</a></h2>"+
-"<div class='clearfix'>"+
-"<p class='author-category'>";for(i=0;i<result.tags.length;i++){$resultstring+="<a href='/tags/"+result.tags[i]+"'>"+result.tags[i]+"</a>";if((i+1)<result.tags.length){$resultstring+=", ";}}
-$resultstring+="</p>"+
-"<p class='date-comments'>"+
-"<a href='"+result.uri+"'><i class='fa fa-calendar-o'></i> "+moment(result.date).format('LL')+"</a>"+
-"</p>"+
-"</div>"+
-"<div class='intro'>"+result.summary+"</div>"+
-"<p class='read-more'><a href='"+result.uri+"' class='btn btn-template-main'>Continue reading</a>"+
-"</p>"+
-"</div>"+
-"</div>"+
-"</section>";var $result=($resultstring);$results.append($result);});}
+results.sort(function(a,b){return new Date(b.date)-new Date(a.date);});results.slice(0,100).forEach(function(result){var $resultstring="<a href='"+result.uri+"' class='card event-card'>"+
+"<article class='card-body'>";if(result.day!=null){$resultstring+="<h1>"+result.day+", "+result.timeStart+" - "+result.timeEnd+"</h1>";}
+$resultstring+="<h2 card='card-title'>"+result.title+"</h2>"+
+"</article>"+
+"</a>";var $result=($resultstring);$results.append($result);});}
 initLunr();$(document).ready(function(){initUI();});
