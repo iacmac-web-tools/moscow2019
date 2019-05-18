@@ -21,7 +21,7 @@ weight: 2303
         </div>
         <div class="card-img-container-person">
             <picture>
-                <img src="" class="card-img-person">
+                <img src="http://www.iacmac.ru/images/photos/person/mentasti_m.jpg" class="card-img-person">
             </picture>
         </div>
         <div class="card-body-person">
