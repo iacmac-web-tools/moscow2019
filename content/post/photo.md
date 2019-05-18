@@ -14,5 +14,5 @@ weight: 0001
 
 
 <!-- InstaWidget -->
-<a href="https://instawidget.net/v/tag/%D0%BC%D0%B0%D0%BA%D0%BC%D0%B0%D1%852019" id="link-090b6246a47d6e26fc39c04db00b28fed3034af2965e55020ce29cb825e81441">#макмах2019</a>
-<script src="https://instawidget.net/js/instawidget.js?u=090b6246a47d6e26fc39c04db00b28fed3034af2965e55020ce29cb825e81441&width=300px"></script>
+<a href="https://instawidget.net/v/tag/%D0%BC%D0%B0%D0%BA%D0%BC%D0%B0%D1%852019" id="link-0f1087c9ab69946574e14204d98239238cf431817f08178103025b16d8996d2b">#макмах2019</a>
+<script src="https://instawidget.net/js/instawidget.js?u=0f1087c9ab69946574e14204d98239238cf431817f08178103025b16d8996d2b&width=300px"></script>

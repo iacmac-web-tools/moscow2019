@@ -18,7 +18,7 @@ dropCap: false
 displayInMenu: false
 displayInList: true
 displayComments: true
-draft: true
+draft: false
 weight: 2601
 ---
 {{< pswp-init >}}

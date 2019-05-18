@@ -14,7 +14,7 @@ dropCap: false
 displayInMenu: false
 displayInList: true
 displayComments: true
-draft: true
+draft: false
 comments: true
 weight: 2602
 ---
