@@ -1,41 +1,36 @@
 ---
-title: "Incidence rate of Zika virus infection (ZIKV) and diagnostic tools accuracy in French international travellers visiting Latin America and the Carribean during the summer of 2016: the ZIKAMERICA cohort study"
-date: 2018-05-26T00:01:01
-description: "Thierry Pistone
-Yann Lambert
-Gilda Grard
-Romain Blaizot
-Arnaud Desclaux
-Camille Tumiotto
-Alexandre Duvignaud
-Eric Ouattara
-Marie-Edith Lafon
-Isabelle Leparc-Goffart
-Denis Malvy"
+title: "ДИНАМИКА РАСПРОСТРАНЁННОСТИ И АНТИБИОТИКОРЕЗИСТЕНТНОСТЬ НОЗОКОМИАЛЬНЫХ ШТАММОВ PSEUDOMONAS AERUGINOSA И БАКТЕРИЙ РОДА ACINETOBACTER В ОАР МНОГОПРОФИЛЬНОГО СТАЦИОНАРА"
+date: 2019-05-19T00:01:00
+description: "АГИБАЛОВА М.Н., ШПАКОВСКАЯ И.В."
+location: "Котласская центральная городская больница им. святителя Луки (В.Ф. Войно-Ясенецкого), Котлас, Россия"
 categories: ["Posters"]
-featuredImage: "img/posters/poster-01-thumb.png"
+featuredImage: "img/posters/posters-2019-1-thumb.png"
 dropCap: false
 displayInMenu: false
 displayInList: true
 displayComments: true
-draft: true
-weight: 2601
+draft: false
+weight: 3001
 ---
+
+
 {{< pswp-init >}}
 
-{{< figure link="/img/posters/poster-01.png">}}
+{{< figure link="/img/posters/posters-2019-1.png">}}
 
-### Background:
-Zika virus infection (ZIKV) epidemic became in 2016 a public health emergency of international concern in Latin America and the Caribbean (LA&C). We aimed to estimate the incidence of ZIKV among French travellers visiting LA&C during the summer of 2016.
 
-### Materials/methods: 
+### Цель:
 
-Adult travellers to LA&C attending a visit from June to September 2016 at a French pre- travel clinic were invited to participate excluding past history of ZIKV or journey to LA&C since 2015. A screening was performed after return with both routine Euroimmun® ELISA (EI) IgM/IgG and in-house ELISA tests of the CNR with IgM antibody capture (MAC) and indirect IgG with the use of complete virus lysate (INDG) assays. A gold standard virus neutralization test (VNT) was retrospectively performed when positive or equivocal ELISA results or ZIKV-like symptoms.
+Изучить динамику распространённости и данные по резистентности нозокомиальных штаммов Pseudomonas aeruginosa и бактерий рода Acinetobacter в отделении анестезиологи и реанимации (ОАР) многопрофильного стационара.
 
-### Results: 
+### Материалы и методы: 
 
-Of the 324 eligible travellers, 75 were included. Of them, 42 (56%) were women, with a median age of 34 years [IQR 29 – 55]. Median length of stay was 20 days [IQR 15 – 33]. Destinations were South America 63 (84%), Central America 6 (8%) and Caribbean 6 (8%). Half (38) reported at least one health event including 7 (9%) fever and 12 (16%) others ZIKV-like symptoms (7 rashes, 5 pruritus). ELISA tests with EI IgM and MAC were all negative while EI IgG and INDG were positive for 4 and 1 travellers respectively. Four (5%) ZIKV cases were retrospectively confirmed by a subsequent positive VNT: one woman who presented fever in Guadeloupe [EI IgG positive; MAC negative and INDG positive] and three women with dermatological ZKV-like symptoms among whom 1 in Martinique [EI IgG negative and INDG negative] and 2 in Nicaragua with [EI IgG positive and INDG negative] and [initial EI IgG negative; late EI IgG equivocal and INDG negative]. The incidence rate was 5.9 ZIKV cases per 100 persons-months [IC95 1.9 – 14.3].
+Проведен анализ данных локального микробиологического мониторинга резистентности флоры в ОАР за 2016-2018 гг. Идентификация возбудителей проводилась общепринятыми микробиологическими методами. Чувствительность определялась диско-диффузионным методом на среде Мюллера-Хинтон II с использованием дисков Oxoid (Великобритания). Детекция продукции карбапенемаз осуществлялась фенотипическими sметодами.
 
-### Conclusions: 
+### Результаты: 
 
-This study is the first to report a suitable ZIKV incidence rate among travellers. The ZIKV cases with non-febrile symptoms would not have been confirmed without the pugnacity of physicians for obtaining a VNT. This emphasize the need for reliable routine ZIKV tests.
+В общей структуре возбудителей бактерии рода Acinetobacter spp. составили 18,1% в 2016 г., 19,9% – в 2017 г., 22,5% – в 2018 г. Спектр видов Acinetobacter spp. за 3 года был представлен в основном исключительно двумя видами: A. haemolyticus – 8% – 10,2% – 16,1% в общей структуре возбудителей и A. lwoffii – 8% – 8,7% – 6,4%. Остальные виды встречались редко: A. baumannii 2% – 1 % – 0%, A. radioresistens 0,1% – 0% – 0%. Чувствительность Acinetobacter spp. к карбапенемам составила 21% – в 2016 г., 15% – в 2017 г., 12% – в 2018 г.; к цефоперазону/сульбактаму 83% – 32% – 30% соответственно; к тигециклину 83% – 50% – 37,5%; к фосфомицину 83% – 93,5% – 75%; к полимиксину 95% – 98,5% – 100%; к колистину 99% – 100% – 100%. В анализируемый период времени в общей структуре возбудителей P. aeruginosa составляла 23% – в 2016 г., 15,7% – в 2017 г., 6,7% – в 2018 г. Чувствительность P. aeruginosa к карбапенемам: 20% – в 2016 г., 48% – в 2017 г., 62% – в 2018 г.; к цефоперазону/ сульбактаму – 70% – 74% – 77% соответственно; к фосфомицину – 70% – 68% – 58%; к полимиксину – 94% – 97% – 100%; к колистину – 100% – 100% – 100% – в течение всего периода исследования.
+
+### Выводы: 
+
+По результатам анализа данных локального микробиологического мониторинга флоры в ОАР за 2016-2018 гг. было установлено, что в структуре возбудителей нозокомиальных инфекций отмечается увеличение доли Acinetobacter spp. в динамике при одновременном значительном снижении частоты встречаемости P. aeruginosa. В 2018 г. преобладающее большинство штаммов Acinetobacter spp. имело признаки экстремальной резистентности с подтверждённой фенотипическими методами продукцией карбапенемаз. Видовая идентификация изолятов показала увеличение доминирования A. haemolyticus (до 16,1% в общей структуре возбудителей) при практически полном отсутствии A. baumannii, тогда как по результатам многоцентровых эпидемиологических исследований именно A. baumannii является лидирующим видом рода Acinetobacter spp. в стационарах России (согласно исследованию «МАРАФОН» 2013-2014 гг. A. baumannii составил 95,4% видового состава, а A. haemolyticus – 0,2%). A. haemolyticus стал наиболее эпидемиологически успешным клоном в ОАР стационара, при этом выбор препаратов для лечения нозокомиальных инфекций, вызванных данным возбудителем, крайне ограничен из-за его экстремальной резистентности.
