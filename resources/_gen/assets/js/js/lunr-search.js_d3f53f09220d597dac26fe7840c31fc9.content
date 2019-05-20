@@ -4,7 +4,7 @@ var str=str.replace(/^\s+/,'')
 for(var i=str.length-1;i>=0;i--){if(/\S/.test(str.charAt(i))){str=str.substring(0,i+1)
 break}}
 return str.split(/\s+/).map(function(token){return token.toLowerCase()})}
-var lunrIndex,$results,pagesIndex;function initLunr(){$.getJSON("/index.json").done(function(index){pagesIndex=index;lunrIndex=lunr(function(){this.ref('uri');this.field('title');this.field('description');this.field('summary');lunr.ru.call(lunrIndex);pagesIndex.forEach(function(page){this.add(page);},this)});}).fail(function(jqxhr,textStatus,error){var err=textStatus+", "+error;console.error("Error getting Hugo index file:",err);});}
+var lunrIndex,$results,pagesIndex;function initLunr(){$.getJSON("/index.json").done(function(index){pagesIndex=index;lunrIndex=lunr(function(){this.ref('uri');this.field('title');this.field('lectors');this.field('description');this.field('summary');lunr.ru.call(lunrIndex);pagesIndex.forEach(function(page){this.add(page);},this)});}).fail(function(jqxhr,textStatus,error){var err=textStatus+", "+error;console.error("Error getting Hugo index file:",err);});}
 function initUI(){$results=$("#blog-listing-medium");$("#searchinput").keyup(function(){$results.empty();var query=$(this).val();console.log("query = "+query);if(query.length<2){return;}
 var results=search(query);console.log(results);renderResults(results);});}
 function search(query){return lunrIndex.search(query).map(function(result){return pagesIndex.filter(function(page){return page.uri===result.ref;})[0];});}

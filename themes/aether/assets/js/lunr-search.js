@@ -48,6 +48,7 @@ function initLunr() {
                 // this.field("description");
                 this.ref('uri');
                 this.field('title');
+                this.field('lectors');
                 this.field('description');
                 this.field('summary');
 

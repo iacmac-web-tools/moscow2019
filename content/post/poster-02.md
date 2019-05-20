@@ -1,39 +1,39 @@
 ---
-title: "Evaluation or Rapid Diagnostic Tests (RDTs) and Enzyme-Linked Immunosorbent Assays (ELISAs) to determine prior dengue infection and guide vaccination decision"
-date: 2018-05-26T00:01:02
-description: "Yasemin Ataman-Onal
-Matthew Bonaparte
-Lingyi Zheng
-Sanjay Garg
-Bruno Guy
-Carlos A. DiazGranados
-Stephen Savarino"
+title: "ХАРАКТЕРИСТИКА И ГЕНОТИПИРОВАНИЕ АНТИБИОТИКОРЕЗИСТЕНТНЫХ КЛИНИЧЕСКИХ ШТАММОВ KLEBSIELLA PNEUMONIAE, ИДЕНТИФИКАЦИЯ НОВОГО СИКВЕНС-ТИПА ST3492"
+date: 2019-05-19T00:02:00
+description: "Асташкин Е.И., Ершова О.Н., Новикова Т.С., Федюкина Г.Н., Кузина Е.С., Александрова И.А., Фурсова Н.К."
+location: "1. ФБУН «ГНЦ прикладной микробиологии и биотехнологии», Оболенск, Россия
+2. ФГАУ «НМИЦ нейрохирургии им. акад. Н.Н. Бурденко» Минздрава России, Москва, Россия"
 categories: ["Posters"]
-featuredImage: "img/posters/poster-02-thumb.png"
+featuredImage: "img/posters/posters-2019-2-thumb.png"
 dropCap: false
 displayInMenu: false
 displayInList: true
 displayComments: true
-draft: true
-comments: true
-weight: 2602
+draft: false
+weight: 3002
 ---
+
+
 {{< pswp-init >}}
 
-{{< figure link="/img/posters/poster-02.png">}}
+{{< figure link="/img/posters/posters-2019-2.png">}}
 
-## Background: 
 
-According to the WHO position paper published in September 2018, the preferred strategy for use of the tetravalent dengue vaccine (CYD-TDV) in endemic settings is to screen for prior dengue infection (PDI) before vaccination. Detection of anti-dengue IgG using enzyme-linked immunosorbent assay (ELISA) is generally used to determine PDI status, however ELISAs are less specific than neutralization assays because of flavivirus cross-reactivity. We determined the suitability of four rapid diagnostic tests (RDTs) and two conventional ELISAs to identify PDI and assessed flavivirus cross-reactivity.
+### Цель:
 
-## Materials/methods: 
+Генотипическая и фенотипическая характеристика изолятов K. pneumoniae, описание нового сиквенс-типа ST3492.
 
-The evaluation panel comprised baseline serum samples collected in CYD-TDV clinical trials and from Sanofi employees. Specificity was assessed using 534 dengue PRNT50 negative samples from continental USA and endemic regions. Negativity of endemic region samples was further confirmed by dengue NS1 IgG ELISA. Sensitivity was assessed using 270 samples from recent (within 13 months, n=90) or remote (3 to 4 years, n=90) prior virologically-confirmed dengue cases, and dengue PRNT50 positive samples from endemic regions (n=90). Cross-reactivity was assessed in 194 dengue seronegative samples that were seropositive for one of the following viruses: yellow fever (n=57), Japanese encephalitis (n=37), West-Nile (n=59) or Zika (n=41). RDTs were from Alere/SD Bioline, Bio-Rad, CTK and GenBody. Indirect dengue IgG ELISAs were from Alere/Panbio and Focus Diagnostics.
+### Материалы и методы: 
 
-## Results: 
+Бактерии идентифицировали на приборе MALDI-TOF Biotyper (Bruker, Германия); чувствительность к 21 антибактериальному препарату (АП) 9 функциональных групп (пенициллины, цефалоспорины, карбапенемы, аминогликозиды, фторхинолоны, сульфаниламиды, тетрациклины, фениколы и нитрофураны) – на приборе Vitek-2 Compact (bioMerieux, США). Гены blaCTX-M, blaTEM, blaSHV, blaOXA, blaVIM, blaKPC, blaNDM, int1, int2, rmpA, aer, kfu, uge, wabG, fimH, allS и K-типы детектировали методом ПЦР. Сиквенс-типы определяли по протоколу базы данных bigsdb.pasteur.fr.
 
-All evaluated RDTs and the Panbio Indirect IgG ELISA had favorable specificity (>98%). RDT sensitivity for identifying PDI was moderate (40%–70%) and lower than with the ELISAs (?90%). Cross-reactivity to Japanese encephalitis was not observed with any RDT. Cross-reactivity to other flaviviruses was uncommon. Only the CTK RDT showed no cross-reactivity, and ELISAs were more cross-reactive than RDTs. None of the RDTs or ELISAs displayed substantial differences for detection of recent versus remote PDI.
+### Результаты: 
 
-## Conclusions: 
+Большинство резистентных к АП изолятов K. pneumoniae (30 из 43) отнесены к экстремально резистентным, XDR (German, 2018), а 5 изолятов – к множественно резистентным, MDR (Magiorakos, 2012). В изолятах определены гены бета-лактамаз blaSHV (43), blaCTX-M (32), blaTEM (22), blaOXA-48; (22), blaNDM-1 (1) и интегроны класса 1 (11). Большинство изолятов (26) несли ≥3 генов бета-лактамаз. Показано, что 4, 5, 6 и 7 генов вирулентности присутствовали в 25, 4, 9, 3 и 1 изолятах соответственно. При этом 10 изолятов несли ген rmpA, ассоциированный с гипермукоидным фенотипом, у 6 из этих изолятов выявлен ген aer, кодирующий аэробактин. Ген сидерофора kfu детектирован в 6 изолятах. Идентифицированы 9 известных сиквенс-типов клебсиелл: ST14, ST23, ST86, ST147, ST219, ST268, ST307, ST395 и ST2674, а также новый ST3492, зарегистрированный в базе данных bigsdb. pasteur.fr (ID7960, ID8198). Аллельный профиль ST3492 (gapA2, infB3, mdh4, pgi1, phoE9, rpoB4, ton12) отличается от ST23 одним аллелем infB. Новый сиквенс-тип определен у двух клинических изолятов, выделенных из ликвора и эндотрахеального аспирата. Эти изоляты были чувствительны к большинству АП, но устойчивы к ампициллину/сульбактаму, хлорамфениколу и нитрофурантоину. Примечательно, что для этих изолятов определена принадлежность к капсульному типу K57, характерному для гипервирулентных клебсиелл.
 
-All RDTs showed high specificity and low cross-reactivity, which minimizes the risk of vaccinating individuals not previously infected with dengue. RDTs varied in sensitivity and could be improved in this regard, which would minimize the number of individuals omitted from vaccination. Despite limitations, currently available dengue RDTs could be temporizing tools in endemic settings where dengue vaccination is being considered, assuming local assessment of performance.
+### Выводы: 
+
+XDR изоляты превалируют среди изученных K. pneumoniae. Характерной чертой коллекции является генетическое разнообразие изолятов: выявлено 10 сиквенс-типов, в том числе ранее не описанный ST3492. Полученные данные характеризуют процесс распространения антибиотикорезистентности среди клинических патогенов в ОРИТ и представляют особый интерес для клинических эпидемиологов.
+
+> Работа выполнена при поддержке Российского научного фонда (грант № 15-15-00058-П).
