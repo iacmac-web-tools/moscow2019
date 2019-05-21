@@ -1,7 +1,7 @@
 baseurl = "http://xxi.iacmac.ru"
 title = "XXI международный конгресс МАКМАХ"
 canonifyurls = true
-paginate = 6
+paginate = 7
 theme = "aether"
 publishDir = "docs"
 languageCode = "ru-ru"
@@ -33,6 +33,4 @@ thumbnail = "img/site_thumbnail.jpg"
 [[ params.categories.item ]]
     key = "may-24"
     value = "24 мая"
-[[ params.categories.item ]]
-    key = "Posters"
-    value = "Постеры и тезисы"
+

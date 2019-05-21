@@ -32,7 +32,7 @@
     </button>
     <ul id="menu" class="hamburger-menu-overlay">
       <li><a href="{{ .Site.BaseURL }}" class="hamburger-menu-overlay-link">Главная</a></li>
-      {{ range where .Site.Pages "Params.displayinmenu" true -}}
+      {{ range where .Site.Pages.ByDate "Params.displayinmenu" true -}}
         <li><a href="{{ .Permalink }}" class="hamburger-menu-overlay-link">{{ .Title }}</a></li>
       {{ end -}}
       {{ range .Site.Params.categories.item }}
