@@ -33,4 +33,7 @@ thumbnail = "img/site_thumbnail.jpg"
 [[ params.categories.item ]]
     key = "may-24"
     value = "24 мая"
+[[ params.categories.item ]]
+    key = "Posters"
+    value = "Постеры и тезисы"
 

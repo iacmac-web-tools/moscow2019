@@ -21,9 +21,12 @@
   <article class="card-body">
     <h2 class="card-title">{{ .Title }}</h2>
     <p class="card-text">{{ if (isset .Params "description") }}{{ index .Params "description" }}{{ else }}{{ .Summary }}{{ end }}</p>
-    <!-- <div class="card-subtext muted-text">
-      <p>Posted <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time></p>
-      {{ if (isset .Params "categories") }}<p>{{ range .Params.categories }}#{{ . }} {{ end }}</p>{{ end }}
-    </div> -->
+
+    {{ if (isset .Params "locations") }}<p>
+      {{ range .Params.locations }}
+        <p class="card-subtext"><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;{{ . }}</p>
+      {{ end }}
+    {{ end }}
+    </div>
   </article>
 </a>

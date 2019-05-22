@@ -365,9 +365,11 @@ strong {
 }
 .pagination-newer {
     float:left;
+        color: white;
 }
 .pagination-older {
     float: right;
+      color: white;
 }
 .button {
     padding: 0.5em 0.6em;

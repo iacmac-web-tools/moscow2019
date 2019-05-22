@@ -14,6 +14,16 @@
         {{ .Render "li" }}
       {{- end }}
     </main>
+
+{{ if eq .Title "Постеры и Тезисы" }}
+
+    {{ if or ($paginator.HasPrev) ($paginator.HasNext) -}}
+    <nav class="pagination-nav side-padding">
+      {{ if $paginator.HasPrev }}<a href="{{ $paginator.Prev.URL }}" class="pagination-newer">&lt; Назад</a>{{ end }}
+      {{ if $paginator.HasNext }}<a href="{{ $paginator.Next.URL }}" class="pagination-older">Дальше &gt;</a>{{ end }}
+    </nav>
+    {{ end -}}
+{{ end }}
     {{ partial "scripts.html" . }}
   </body>
 </html>
