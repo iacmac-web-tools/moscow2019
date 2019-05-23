@@ -5,7 +5,7 @@
     <description>Recent content on XXI международный конгресс МАКМАХ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 19 May 2019 00:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2019 00:59:00 +0000</lastBuildDate>
     
         <atom:link href="http://xxi.iacmac.ru/index.xml" rel="self" type="application/rss+xml" />
     
@@ -57,6 +57,13 @@
       <pubDate>Mon, 01 Jan 2018 10:35:35 -0600</pubDate>
       
       <guid>http://xxi.iacmac.ru/post/poster-session/</guid>
+      <description></description>
+    </item><item>
+      <title>Поиск</title>
+      <link>http://xxi.iacmac.ru/post/search/</link>
+      <pubDate>Mon, 01 Jan 2018 10:45:35 -0600</pubDate>
+      
+      <guid>http://xxi.iacmac.ru/post/search/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,14 +1,14 @@
 ---
 title: "Поиск"
-date: 2018-01-01T00:02:00-06:00
+date: 2018-01-01T10:45:35-06:00
 description: ""
 categories: ["Info"]
 dropCap: false
 displayInMenu: true
-displayInList: false
+displayInList: true
 hideNext: true
 draft: false
-weight: 0000
+weight: 0006
 ---
 
 
