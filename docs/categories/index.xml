@@ -5,11 +5,18 @@
     <description>Recent content in Categories on XXI международный конгресс МАКМАХ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 24 May 2018 16:20:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2019 00:25:00 +0000</lastBuildDate>
     
         <atom:link href="http://xxi.iacmac.ru/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Постеры и Тезисы</title>
+      <link>http://xxi.iacmac.ru/categories/posters/</link>
+      <pubDate>Sun, 19 May 2019 00:25:00 +0000</pubDate>
+      
+      <guid>http://xxi.iacmac.ru/categories/posters/</guid>
+      <description></description>
+    </item><item>
       <title>24 мая</title>
       <link>http://xxi.iacmac.ru/categories/may-24/</link>
       <pubDate>Thu, 24 May 2018 16:20:00 -0600</pubDate>
@@ -29,13 +36,6 @@
       <pubDate>Tue, 22 May 2018 17:00:00 -0600</pubDate>
       
       <guid>http://xxi.iacmac.ru/categories/may-22/</guid>
-      <description></description>
-    </item><item>
-      <title>Постеры и Тезисы</title>
-      <link>http://xxi.iacmac.ru/categories/posters/</link>
-      <pubDate>Mon, 01 Jan 2018 10:35:35 -0600</pubDate>
-      
-      <guid>http://xxi.iacmac.ru/categories/posters/</guid>
       <description></description>
     </item><item>
       <title>Информация</title>

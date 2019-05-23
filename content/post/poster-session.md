@@ -4,7 +4,7 @@ date: 2018-01-01T10:35:35-06:00
 description: ""
 categories: ["Posters"]
 dropCap: false
-displayInMenu: true
+displayInMenu: false
 displayInList: true
 hideNext: true
 draft: false
