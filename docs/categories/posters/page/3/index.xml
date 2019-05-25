@@ -10,20 +10,6 @@
         <atom:link href="http://xxi.iacmac.ru/categories/posters/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>СРАВНИТЕЛЬНОЕ ИССЛЕДОВАНИЕ ЧАСТОТЫ НОСИТЕЛЬСТВА STAPHYLOCOCCUS AUREUS У ПАЦИЕНТОВ С ОСТЕОАРТРОЗОМ</title>
-      <link>http://xxi.iacmac.ru/post/poster-16/</link>
-      <pubDate>Sun, 19 May 2019 00:16:00 +0000</pubDate>
-      
-      <guid>http://xxi.iacmac.ru/post/poster-16/</guid>
-      <description>Гладкова Е.В., Бабушкина И.В., Мамонова И.А., Бондаренко А.С.</description>
-    </item><item>
-      <title>ДИНАМИКА ПОТРЕБЛЕНИЯ АНТИМИКРОБНЫХ ПРЕПАРАТОВ В СТАЦИОНАРАХ САНКТ-ПЕТЕРБУРГА В 2014-2018 ГГ</title>
-      <link>http://xxi.iacmac.ru/post/poster-17/</link>
-      <pubDate>Sun, 19 May 2019 00:17:00 +0000</pubDate>
-      
-      <guid>http://xxi.iacmac.ru/post/poster-17/</guid>
-      <description>Гомон Ю.М., Колбин А.С., Кондратенко Д.С., Самусь Е.А., Коморина А.И., Ирхина М.Д., Лемещенко Д.</description>
-    </item><item>
       <title>ВЛИЯНИЕ ИНФЕКЦИЙ, ВЫЗВАННЫХ ПОЛИРЕЗИСТЕНТНОЙ PSEUDOMONAS AERUGINOSA, НА ТЕЧЕНИЕ ПОСЛЕОПЕРАЦИОННОГО ПЕРИОДА В ОНКОЛОГИЧЕСКОЙ КЛИНИКЕ</title>
       <link>http://xxi.iacmac.ru/post/poster-18/</link>
       <pubDate>Sun, 19 May 2019 00:18:00 +0000</pubDate>
@@ -65,6 +51,27 @@
       
       <guid>http://xxi.iacmac.ru/post/poster-23/</guid>
       <description>Каменева О.А., Эсауленко Н.Б., Швабауэр Э.В., Косякова К.Г.</description>
+    </item><item>
+      <title>ОПЫТ МИКРОБИОЛОГИЧЕСКОЙ ДИАГНОСТИКИ ПЕРИПРОТЕЗНОЙ ИНФЕКЦИИ, ВЫЗВАННОЙ LISTERIA MONOCYTOGENES.</title>
+      <link>http://xxi.iacmac.ru/post/poster-24/</link>
+      <pubDate>Sun, 19 May 2019 00:24:00 +0000</pubDate>
+      
+      <guid>http://xxi.iacmac.ru/post/poster-24/</guid>
+      <description>Кимайкина О.В., Золовкина А.Г.</description>
+    </item><item>
+      <title>АНАЛИЗ ЭТИОЛОГИЧЕСКОЙ СТРУКТУРЫ И АНТИБИОТИКОРЕЗИСТЕНТНОСТИ ВОЗБУДИТЕЛЕЙ ПЕРИПРОТЕЗНОЙ ИНФЕКЦИИ КРУПНЫХ СУСТАВОВ</title>
+      <link>http://xxi.iacmac.ru/post/poster-25/</link>
+      <pubDate>Sun, 19 May 2019 00:25:00 +0000</pubDate>
+      
+      <guid>http://xxi.iacmac.ru/post/poster-25/</guid>
+      <description>Кимайкина О.В., Золовкина А.Г., Батрак Ю.М.</description>
+    </item><item>
+      <title>СРАВНИТЕЛЬНОЕ ИССЛЕДОВАНИЕ ИНТЕНСИВНОСТИ БИОПЛЕНКООБРАЗОВАНИЯ МИКРООРГАНИЗМАМИ, ВЫДЕЛЕННЫМИ У ПАЦИЕНТОВ С ИНФЕКЦИОННОЙ ПАТОЛОГИЕЙ</title>
+      <link>http://xxi.iacmac.ru/post/poster-26/</link>
+      <pubDate>Sun, 19 May 2019 00:26:00 +0000</pubDate>
+      
+      <guid>http://xxi.iacmac.ru/post/poster-26/</guid>
+      <description>Колчанова Н.Э., Плотников Ф.В., Кабанова А.А., Земко В.Ю., Окулич В.К.</description>
     </item>
   </channel>
 </rss>

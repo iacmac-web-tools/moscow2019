@@ -8,7 +8,7 @@ displayInMenu: false
 displayInList: true
 hideNext: true
 draft: false
-weight: 0002
+weight: 0004
 ---
 
 ## Нам важно ваше мнение!

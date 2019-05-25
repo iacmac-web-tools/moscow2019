@@ -1,6 +1,6 @@
 ---
 title: "Фотографии"
-date: 2018-01-01T00:07:00-06:00
+date: 2018-01-01T00:05:00-06:00
 description: ""
 categories: ["Info"]
 dropCap: false
@@ -9,7 +9,7 @@ displayInList: true
 displayComments: false
 hideNext: true
 draft: false
-weight: 0001
+weight: 0005
 ---
 
 

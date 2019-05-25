@@ -10,25 +10,11 @@
         <atom:link href="http://xxi.iacmac.ru/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Фотографии</title>
-      <link>http://xxi.iacmac.ru/post/photo/</link>
-      <pubDate>Mon, 01 Jan 2018 00:07:00 -0600</pubDate>
+      <title>Программа и комментарии</title>
+      <link>http://xxi.iacmac.ru/post/programm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:01:00 -0600</pubDate>
       
-      <guid>http://xxi.iacmac.ru/post/photo/</guid>
-      <description></description>
-    </item><item>
-      <title>Общая информация</title>
-      <link>http://xxi.iacmac.ru/post/info/</link>
-      <pubDate>Mon, 01 Jan 2018 00:03:00 -0600</pubDate>
-      
-      <guid>http://xxi.iacmac.ru/post/info/</guid>
-      <description></description>
-    </item><item>
-      <title>Опрос участника</title>
-      <link>http://xxi.iacmac.ru/post/questionnaire/</link>
-      <pubDate>Mon, 01 Jan 2018 00:04:00 -0600</pubDate>
-      
-      <guid>http://xxi.iacmac.ru/post/questionnaire/</guid>
+      <guid>http://xxi.iacmac.ru/post/programm/</guid>
       <description></description>
     </item><item>
       <title>Регистрация и оплата</title>
@@ -38,11 +24,11 @@
       <guid>http://xxi.iacmac.ru/post/registration/</guid>
       <description></description>
     </item><item>
-      <title>Программа и комментарии</title>
-      <link>http://xxi.iacmac.ru/post/programm/</link>
-      <pubDate>Mon, 01 Jan 2018 00:01:00 -0600</pubDate>
+      <title>Общая информация</title>
+      <link>http://xxi.iacmac.ru/post/info/</link>
+      <pubDate>Mon, 01 Jan 2018 00:03:00 -0600</pubDate>
       
-      <guid>http://xxi.iacmac.ru/post/programm/</guid>
+      <guid>http://xxi.iacmac.ru/post/info/</guid>
       <description></description>
     </item><item>
       <title>Баллы НМО</title>
@@ -52,6 +38,13 @@
       <guid>http://xxi.iacmac.ru/post/nmo/</guid>
       <description></description>
     </item><item>
+      <title>Опрос участника</title>
+      <link>http://xxi.iacmac.ru/post/questionnaire/</link>
+      <pubDate>Mon, 01 Jan 2018 00:04:00 -0600</pubDate>
+      
+      <guid>http://xxi.iacmac.ru/post/questionnaire/</guid>
+      <description></description>
+    </item><item>
       <title>Постерная сессия</title>
       <link>http://xxi.iacmac.ru/post/poster-session/</link>
       <pubDate>Mon, 01 Jan 2018 10:35:35 -0600</pubDate>
@@ -59,11 +52,25 @@
       <guid>http://xxi.iacmac.ru/post/poster-session/</guid>
       <description></description>
     </item><item>
+      <title>Фотографии</title>
+      <link>http://xxi.iacmac.ru/post/photo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:05:00 -0600</pubDate>
+      
+      <guid>http://xxi.iacmac.ru/post/photo/</guid>
+      <description></description>
+    </item><item>
       <title>Поиск</title>
       <link>http://xxi.iacmac.ru/post/search/</link>
       <pubDate>Mon, 01 Jan 2018 10:45:35 -0600</pubDate>
       
       <guid>http://xxi.iacmac.ru/post/search/</guid>
+      <description></description>
+    </item><item>
+      <title>Видео</title>
+      <link>http://xxi.iacmac.ru/post/video/</link>
+      <pubDate>Mon, 01 Jan 2018 00:06:00 -0600</pubDate>
+      
+      <guid>http://xxi.iacmac.ru/post/video/</guid>
       <description></description>
     </item>
   </channel>
