@@ -14,6 +14,5 @@ weight: 0006
 
 {{< youtube d0smc-G-Gvw >}}
 
-{{< youtube Tu8zN38I_oE >}}
 
 {{< youtube RGPWlfo6EDM >}}
