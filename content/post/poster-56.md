@@ -1,6 +1,6 @@
 ---
-title: "ДИНАМИКА НАЗНАЧЕНИЯ АНТИМИКРОБНЫХ ПРЕПАРАТОВ В МНОГОПРОФИЛЬНОМ СТАЦИОНАРЕ ЗА 3­ЛЕТНИЙ ПЕРИОД: РЕЗУЛЬТАТЫ ПРОЕКТА GLOBAL­-PPS"
-date: 2019-05-19T00:51:00
+title: "ДИНАМИКА НАЗНАЧЕНИЯ АНТИМИКРОБНЫХ ПРЕПАРАТОВ В МНОГОПРОФИЛЬНОМ СТАЦИОНАРЕ ЗА 3­-ЛЕТНИЙ ПЕРИОД: РЕЗУЛЬТАТЫ ПРОЕКТА GLOBAL­-PPS"
+date: 2019-05-19T00:56:00
 description: "Шевчик И.А., Белькова Ю.А., Рачина С.А., Толпыго А.В., Захаренков И.А., Козлов Р.С., Довгань Е.В."
 locations: [
 "ФГБОУ ВО «Смоленский государственный медицинский университет» Минздрава России, Смоленск, Россия",
@@ -9,19 +9,19 @@ locations: [
 "Смоленская областная клиническая больница, Смоленск, Россия"
 ]
 categories: ["Posters"]
-featuredImage: "img/posters/posters-2019-51-thumb.png"
+featuredImage: "img/posters/posters-2019-56-thumb.png"
 dropCap: false
 displayInMenu: false
 displayInList: true
 displayComments: true
 draft: false
-weight: 3051
+weight: 3056
 ---
 
 
 {{< pswp-init >}}
 
-{{< figure link="/img/posters/posters-2019-51.png">}}
+{{< figure link="/img/posters/posters-2019-56.png">}}
 
 
 ### Цель:
