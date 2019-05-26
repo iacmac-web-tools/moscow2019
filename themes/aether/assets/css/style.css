@@ -229,6 +229,13 @@ strong {
     border: solid 1px #7a7b7c;
 }
 
+.event-card-no-border { 
+   display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+
 
 .card-img-container {
     position: relative;
@@ -242,6 +249,14 @@ strong {
     justify-content:flex-start;
     align-items: stretch;
     border-radius: 0.2rem;
+}
+
+.event-card-no-border { 
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-items: stretch;
 }
 
 .card-body-person {
@@ -277,6 +292,10 @@ strong {
 
 @media screen and (min-width:600px) {
     .event-card  {
+        flex-wrap:nowrap;
+    } 
+
+      .event-card-no-border  {
         flex-wrap:nowrap;
     } 
     

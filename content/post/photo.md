@@ -12,7 +12,21 @@ draft: false
 weight: 0005
 ---
 
+ <div class="event-card-no-border" >
+        <div class="card-time-container-person-no-picture">
+      	<!-- InstaWidget -->
+		<a href="https://instawidget.net/v/tag/%D0%BC%D0%B0%D0%BA%D0%BC%D0%B0%D1%852019" id="link-0f1087c9ab69946574e14204d98239238cf431817f08178103025b16d8996d2b">#макмах2019</a>
+		<script src="https://instawidget.net/js/instawidget.js?u=0f1087c9ab69946574e14204d98239238cf431817f08178103025b16d8996d2b&width=300px"></script>
+        </div>
+        <div class="card-body-person">
+           	{{< load-photoswipe >}}
+		{{< gallerydir dir="/img/photo/" caption-position="none" hover-effect="none" caption-effect="none" />}} 
+        </div>
+    </div>
 
-<!-- InstaWidget -->
-<a href="https://instawidget.net/v/tag/%D0%BC%D0%B0%D0%BA%D0%BC%D0%B0%D1%852019" id="link-0f1087c9ab69946574e14204d98239238cf431817f08178103025b16d8996d2b">#макмах2019</a>
-<script src="https://instawidget.net/js/instawidget.js?u=0f1087c9ab69946574e14204d98239238cf431817f08178103025b16d8996d2b&width=300px"></script>
+
+
+
+
+
+
