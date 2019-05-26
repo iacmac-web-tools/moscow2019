@@ -11,6 +11,14 @@ draft: false
 weight: 0005
 ---
 
+<div class="card-container">
+<a  href='https://drive.google.com/file/d/1h-rjk7gew_sWemWj0TOi9dpePBSfSo5k/view?usp=sharing' class="card event-card" target="_blank">
+  <article class="card-body">
+    <h2 class="card-title">Принятые тезисы</h2>
+  </article>
+</a>
+</div>
+
 {{< pswp-init >}}
 
 {{< gallery title="" caption-effect="slide" caption-position="bottom" hover-effect="grow" >}}
