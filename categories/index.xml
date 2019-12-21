@@ -1,0 +1,56 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories - XXI международный конгресс МАКМАХ</title>
+    <link>https://xxi.iacmac.ru/categories/</link>
+    <description>Recent content in Categories on XXI международный конгресс МАКМАХ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sun, 19 May 2019 00:59:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://xxi.iacmac.ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Постеры и Тезисы</title>
+      <link>https://xxi.iacmac.ru/categories/posters/</link>
+      <pubDate>Sun, 19 May 2019 00:59:00 +0000</pubDate>
+      
+      <guid>https://xxi.iacmac.ru/categories/posters/</guid>
+      <description></description>
+    </item><item>
+      <title>24 мая</title>
+      <link>https://xxi.iacmac.ru/categories/may-24/</link>
+      <pubDate>Thu, 24 May 2018 16:20:00 -0600</pubDate>
+      
+      <guid>https://xxi.iacmac.ru/categories/may-24/</guid>
+      <description></description>
+    </item><item>
+      <title>23 мая</title>
+      <link>https://xxi.iacmac.ru/categories/may-23/</link>
+      <pubDate>Wed, 23 May 2018 16:20:00 -0600</pubDate>
+      
+      <guid>https://xxi.iacmac.ru/categories/may-23/</guid>
+      <description></description>
+    </item><item>
+      <title>22 мая</title>
+      <link>https://xxi.iacmac.ru/categories/may-22/</link>
+      <pubDate>Tue, 22 May 2018 17:00:00 -0600</pubDate>
+      
+      <guid>https://xxi.iacmac.ru/categories/may-22/</guid>
+      <description></description>
+    </item><item>
+      <title>Информация</title>
+      <link>https://xxi.iacmac.ru/categories/info/</link>
+      <pubDate>Mon, 01 Jan 2018 10:45:35 -0600</pubDate>
+      
+      <guid>https://xxi.iacmac.ru/categories/info/</guid>
+      <description></description>
+    </item><item>
+      <title>Постерная сессия</title>
+      <link>https://xxi.iacmac.ru/categories/poster-session/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xxi.iacmac.ru/categories/poster-session/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
