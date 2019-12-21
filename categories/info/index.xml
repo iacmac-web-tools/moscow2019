@@ -1,69 +1,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Информация - XXI международный конгресс МАКМАХ</title>
-    <link>https://xxi.iacmac.ru/categories/info/</link>
+    <link>http://xxi.iacmac.ru/categories/info/</link>
     <description>Recent content in Информация on XXI международный конгресс МАКМАХ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Mon, 01 Jan 2018 10:45:35 -0600</lastBuildDate>
     
-        <atom:link href="https://xxi.iacmac.ru/categories/info/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://xxi.iacmac.ru/categories/info/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Программа и комментарии</title>
-      <link>https://xxi.iacmac.ru/post/programm/</link>
+      <link>http://xxi.iacmac.ru/post/programm/</link>
       <pubDate>Mon, 01 Jan 2018 00:01:00 -0600</pubDate>
       
-      <guid>https://xxi.iacmac.ru/post/programm/</guid>
+      <guid>http://xxi.iacmac.ru/post/programm/</guid>
       <description></description>
     </item><item>
       <title>Регистрация и оплата</title>
-      <link>https://xxi.iacmac.ru/post/registration/</link>
+      <link>http://xxi.iacmac.ru/post/registration/</link>
       <pubDate>Mon, 01 Jan 2018 00:02:00 -0600</pubDate>
       
-      <guid>https://xxi.iacmac.ru/post/registration/</guid>
+      <guid>http://xxi.iacmac.ru/post/registration/</guid>
       <description></description>
     </item><item>
       <title>Общая информация</title>
-      <link>https://xxi.iacmac.ru/post/info/</link>
+      <link>http://xxi.iacmac.ru/post/info/</link>
       <pubDate>Mon, 01 Jan 2018 00:03:00 -0600</pubDate>
       
-      <guid>https://xxi.iacmac.ru/post/info/</guid>
+      <guid>http://xxi.iacmac.ru/post/info/</guid>
       <description></description>
     </item><item>
       <title>Баллы НМО</title>
-      <link>https://xxi.iacmac.ru/post/nmo/</link>
+      <link>http://xxi.iacmac.ru/post/nmo/</link>
       <pubDate>Mon, 01 Jan 2018 00:45:00 -0600</pubDate>
       
-      <guid>https://xxi.iacmac.ru/post/nmo/</guid>
+      <guid>http://xxi.iacmac.ru/post/nmo/</guid>
       <description></description>
     </item><item>
       <title>Опрос участника</title>
-      <link>https://xxi.iacmac.ru/post/questionnaire/</link>
+      <link>http://xxi.iacmac.ru/post/questionnaire/</link>
       <pubDate>Mon, 01 Jan 2018 00:04:00 -0600</pubDate>
       
-      <guid>https://xxi.iacmac.ru/post/questionnaire/</guid>
+      <guid>http://xxi.iacmac.ru/post/questionnaire/</guid>
       <description></description>
     </item><item>
       <title>Фотографии</title>
-      <link>https://xxi.iacmac.ru/post/photo/</link>
+      <link>http://xxi.iacmac.ru/post/photo/</link>
       <pubDate>Mon, 01 Jan 2018 00:05:00 -0600</pubDate>
       
-      <guid>https://xxi.iacmac.ru/post/photo/</guid>
+      <guid>http://xxi.iacmac.ru/post/photo/</guid>
       <description></description>
     </item><item>
       <title>Поиск</title>
-      <link>https://xxi.iacmac.ru/post/search/</link>
+      <link>http://xxi.iacmac.ru/post/search/</link>
       <pubDate>Mon, 01 Jan 2018 10:45:35 -0600</pubDate>
       
-      <guid>https://xxi.iacmac.ru/post/search/</guid>
+      <guid>http://xxi.iacmac.ru/post/search/</guid>
       <description></description>
     </item><item>
       <title>Видео</title>
-      <link>https://xxi.iacmac.ru/post/video/</link>
+      <link>http://xxi.iacmac.ru/post/video/</link>
       <pubDate>Mon, 01 Jan 2018 00:06:00 -0600</pubDate>
       
-      <guid>https://xxi.iacmac.ru/post/video/</guid>
+      <guid>http://xxi.iacmac.ru/post/video/</guid>
       <description></description>
     </item>
   </channel>

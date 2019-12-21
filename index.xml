@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XXI международный конгресс МАКМАХ</title>
-    <link>https://xxi.iacmac.ru/</link>
+    <link>http://xxi.iacmac.ru/</link>
     <description>Recent content on XXI международный конгресс МАКМАХ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Sun, 19 May 2019 00:59:00 +0000</lastBuildDate>
     
-        <atom:link href="https://xxi.iacmac.ru/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://xxi.iacmac.ru/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Posts</title>
-      <link>https://xxi.iacmac.ru/post/</link>
+      <link>http://xxi.iacmac.ru/post/</link>
       <pubDate>Sun, 19 May 2019 00:59:00 +0000</pubDate>
       
-      <guid>https://xxi.iacmac.ru/post/</guid>
+      <guid>http://xxi.iacmac.ru/post/</guid>
       <description></description>
     </item>
   </channel>
